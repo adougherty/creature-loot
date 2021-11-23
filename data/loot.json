@@ -1,0 +1,1198 @@
+{
+	"Aarakocra": [
+		{
+			"quantity": "1d4",
+			"name": "Tattered Javelin"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Leather Armor"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Aarakocra Feather"
+		}
+	],
+	"Aboleth": [
+		{
+			"quantity": "3",
+			"name": "Aboleth Tentacle"
+		},
+		{
+			"quantity": "1",
+			"name": "Aboleth Mucous"
+		},
+		{
+			"quantity": "1",
+			"name": "Aboleth Tail"
+		},
+		{
+			"quantity": "3d10",
+			"name": "Aboleth Tooth"
+		},
+		{
+			"quantity": "1",
+			"name": "Aboleth Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Aboleth Bladder"
+		}
+	],
+	"Deva": [
+		{
+			"quantity": "1",
+			"name": "Holy Mace"
+		},
+		{
+			"quantity": "6",
+			"name": "Holy Feather"
+		},
+		{
+			"quantity": "2",
+			"name": "Blessed Gauntlets"
+		},
+		{
+			"quantity": "1",
+			"name": "Sacred Robe"
+		}
+	],
+	"Planetar": [
+		{
+			"quantity": "1",
+			"name": "Planetar's Greatsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Consecrating Sash"
+		},
+		{
+			"quantity": "1",
+			"name": "Divine Tongue"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Angelic Blood"
+		},
+		{
+			"quantity": "8",
+			"name": "Holy Feather"
+		},
+		{
+			"quantity": "2",
+			"name": "Blessed Gauntlets"
+		},
+		{
+			"quantity": "1",
+			"name": "Sacred Robe"
+		}
+	],
+	"Solar": [
+		{
+			"quantity": "1",
+			"name": "Solar's Greatsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Holy Longbow"
+		},
+		{
+			"quantity": "1",
+			"name": "Consecrating Sash"
+		},
+		{
+			"quantity": "1",
+			"name": "Divine Tongue"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Angelic Blood"
+		},
+		{
+			"quantity": "1",
+			"name": "God's Pendant"
+		},
+		{
+			"quantity": "1",
+			"name": "Head of a Solar"
+		},
+		{
+			"quantity": "11",
+			"name": "Holy Feather"
+		},
+		{
+			"quantity": "2",
+			"name": "Blessed Gauntlets"
+		},
+		{
+			"quantity": "1",
+			"name": "Sacred Robe"
+		}
+	],
+	"Animated Armor": [
+		{
+			"quantity": "1",
+			"name": "Tattered Plate Armor"
+		},
+		{
+			"quantity": "1",
+			"name": "Animating Sigil"
+		}
+	],
+	"Flying Sword": [
+		{
+			"quantity": "1",
+			"name": "Tattered Longsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Animating Sigil"
+		}
+	],
+	"Rug of Smothering": [
+		{
+			"quantity": "1",
+			"name": "Tattered Carpet"
+		},
+		{
+			"quantity": "1",
+			"name": "Animating Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Animate Carpet Patch"
+		}
+	],
+	"Azer": [
+		{
+			"quantity": "1",
+			"name": "Tattered Warhammer"
+		},
+		{
+			"quantity": "1d6",
+			"name": "25gp Gem"
+		},
+		{
+			"quantity": "1",
+			"name": "Azer Heart"
+		}
+	],
+	"Banshee": [
+		{
+			"quantity": "2d6",
+			"name": "50gp Art Object"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Ectoplasm"
+		},
+		{
+			"quantity": "1",
+			"name": "Pinch of Spirit Dust"
+		}
+	],
+	"Basilisk": [
+		{
+			"quantity": "1",
+			"name": "Basilisk Eye"
+		},
+		{
+			"quantity": "1",
+			"name": "Basilisk Fang"
+		},
+		{
+			"quantity": "1",
+			"name": "Basilisk Stomach"
+		}
+	],
+	"Beholder": [
+		{
+			"quantity": "1",
+			"name": "Large Beholder Eye"
+		},
+		{
+			"quantity": "4",
+			"name": "Small Beholder Eye"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Beholder Slime"
+		},
+		{
+			"quantity": "4",
+			"name": "Beholder Eyestalk"
+		},
+		{
+			"quantity": "3",
+			"name": "Set of Armor (Beholder)"
+		}
+	],
+	"Death Tyrant": [
+		{
+			"quantity": "1",
+			"name": "Large Death Tyrant Eye"
+		},
+		{
+			"quantity": "6",
+			"name": "Small Death Tyrant Eye"
+		},
+		{
+			"quantity": "2",
+			"name": "Vial of Ectoplasm"
+		},
+		{
+			"quantity": "1",
+			"name": "Death Tyrant Skull"
+		},
+		{
+			"quantity": "4",
+			"name": "Set of Armor"
+		}
+	],
+	"Spectator": [
+		{
+			"quantity": "1",
+			"name": "Large Spectator Eye"
+		},
+		{
+			"quantity": "1",
+			"name": "Spectator Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Spectator Tongue"
+		}
+	],
+	"Needle Blight": [
+		{
+			"quantity": "1",
+			"name": "Gulthias Flower"
+		}
+	],
+	"Twig Blight": [
+		{
+			"quantity": "1",
+			"name": "Gulthias Twig"
+		}
+	],
+	"Vine Blight": [
+		{
+			"quantity": "1",
+			"name": "Gulthias Seed"
+		}
+	],
+	"Bugbear": [
+		{
+			"quantity": "1",
+			"name": "Tattered Morningstar"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Hide Armor"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Bugbear Ear"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Bugbear Tusk"
+		}
+	],
+	"Bugbear Chief": [
+		{
+			"quantity": "1",
+			"name": "Tattered Chain Shirt"
+		},
+		{
+			"quantity": "1",
+			"name": "Strong Bugbear Heart"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Bugbear Ear"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Bugbear Tusk"
+		},
+		{
+			"quantity": "1",
+			"name": "Bugbear Chief's Morningstar"
+		}
+	],
+	"Bulette": [
+		{
+			"quantity": "1d6",
+			"name": "Common Item"
+		},
+		{
+			"quantity": "1",
+			"name": "Bulette Head Plate"
+		},
+		{
+			"quantity": "2",
+			"name": "Bulette Claw"
+		},
+		{
+			"quantity": "1",
+			"name": "Bulette Tendon"
+		}
+	],
+	"Bullywug": [
+		{
+			"quantity": "1",
+			"name": "Bullywug Bladder"
+		}
+	],
+	"Bandit": [
+		{
+			"quantity": "1",
+			"name": "Tattered Leather Armor"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Scimitar"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Light Crossbow"
+		},
+		{
+			"quantity": "1",
+			"name": "Bandit Code"
+		}
+	],
+	"Bandit Captain": [
+		{
+			"quantity": "1",
+			"name": "Tattered Studded Leather Armor"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Scimitar"
+		},
+		{
+			"quantity": "2",
+			"name": "Tattered Dagger"
+		},
+		{
+			"quantity": "1",
+			"name": "Bandit Code"
+		},
+		{
+			"quantity": "1",
+			"name": "Captain's Cloak"
+		}
+	],
+	"Cambion": [
+		{
+			"quantity": "1",
+			"name": "Tattered Spear"
+		},
+		{
+			"quantity": "1",
+			"name": "Tattered Scale Mail"
+		},
+		{
+			"quantity": "2",
+			"name": "Cambion Horn"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Cambion Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Cambion Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Cambion Tongue"
+		}
+	],
+	"Carrion Crawler": [
+		{
+			"quantity": "1",
+			"name": "Crawler Tentacle"
+		},
+		{
+			"quantity": "1",
+			"name": "Digested Corpse"
+		}
+	],
+	"Centaur": [
+		{
+			"quantity": "1",
+			"name": "Tattered Pike"
+		},
+		{
+			"quantity": "4d4",
+			"name": "Arrow"
+		},
+		{
+			"quantity": "2",
+			"name": "Centaur Hoof"
+		}
+	],
+	"Chimera": [
+		{
+			"quantity": "1",
+			"name": "Dragon Head"
+		},
+		{
+			"quantity": "1",
+			"name": "Lion Head"
+		},
+		{
+			"quantity": "1",
+			"name": "Goat Head"
+		},
+		{
+			"quantity": "1",
+			"name": "Chimera Heart"
+		},
+		{
+			"quantity": "1d8",
+			"name": "Chimera Claw"
+		}
+	],
+	"Chuul": [
+		{
+			"quantity": "1",
+			"name": "Chuul Caraprace"
+		},
+		{
+			"quantity": "1",
+			"name": "Chuul Tentacle"
+		},
+		{
+			"quantity": "2",
+			"name": "Chuul Pincer"
+		}
+	],
+	"Cloaker": [
+		{
+			"quantity": "2",
+			"name": "Cloaker Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Cloaker Tail"
+		},
+		{
+			"quantity": "1",
+			"name": "Cloaker Head"
+		},
+		{
+			"quantity": "1",
+			"name": "Cloaker Claw"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Cloaker Blood"
+		},
+		{
+			"quantity": "2",
+			"name": "Cloaker Eye"
+		}
+	],
+	"Cockatrice": [
+		{
+			"quantity": "1",
+			"name": "Vial of Cockatrice Venom"
+		}
+	],
+	"Couatl": [
+		{
+			"quantity": "1",
+			"name": "Couatl Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Couatl Venom"
+		},
+		{
+			"quantity": "1",
+			"name": "Couatl Heart"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Holy Feather"
+		}
+	],
+	"Crawling Claw": [
+		{
+			"quantity": "1",
+			"name": "Desecrated Hand"
+		}
+	],
+	"Cyclops": [
+		{
+			"quantity": "1",
+			"name": "Tattered Greatclub"
+		},
+		{
+			"quantity": "1",
+			"name": "Cyclops Eye"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Giant's Toe"
+		},
+		{
+			"quantity": "1",
+			"name": "Cyclops Heart"
+		}
+	],
+	"Darkmantle": [
+		{
+			"quantity": "1",
+			"name": "Darkmantle Tentacle"
+		}
+	],
+	"Death Knight": [
+		{
+			"quantity": "1",
+			"name": "Tattered Shield"
+		},
+		{
+			"quantity": "1",
+			"name": "Death Knight Longsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Unfulfilled Heart"
+		},
+		{
+			"quantity": "1d6",
+			"name": "Charmed Rib"
+		},
+		{
+			"quantity": "2",
+			"name": "Death Knight Eye"
+		},
+		{
+			"quantity": "1",
+			"name": "Death Knight Hand"
+		},
+		{
+			"quantity": "1",
+			"name": "Undead Banner"
+		},
+		{
+			"quantity": "1",
+			"name": "Belt of Undying"
+		},
+		{
+			"quantity": "1",
+			"name": "Plumed Death Knight Helm"
+		},
+		{
+			"quantity": "2d8",
+			"name": "Death Knight Bone"
+		},
+		{
+			"quantity": "1",
+			"name": "Midnight Cloak"
+		},
+		{
+			"quantity": "1",
+			"name": "Black Plate Armor"
+		},
+		{
+			"quantity": "2",
+			"name": "Unholy Symbol"
+		},
+		{
+			"quantity": "1",
+			"name": "Undead Mount"
+		},
+		{
+			"quantity": "1",
+			"name": "Death Knigh Skull"
+		}
+	],
+	"Ghoul": [
+		{
+			"quantity": "1d4",
+			"name": "Ghoul Claw"
+		}
+	],
+	"Balor": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "3",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "2",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Set of Abyssal Chains"
+		},
+		{
+			"quantity": "3",
+			"name": "Mote of Unholy Fire"
+		}
+	],
+	"Barlgura": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "2",
+			"name": "Barlgura Tusk"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Dessicated Trophy"
+		}
+	],
+	"Chasme": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Proboscis"
+		},
+		{
+			"quantity": "1",
+			"name": "Proboscis"
+		},
+		{
+			"quantity": "1",
+			"name": "Chasme Head"
+		},
+		{
+			"quantity": "1",
+			"name": "Chasme Carapace"
+		},
+		{
+			"quantity": "1",
+			"name": "Trophy  of Torture"
+		}
+	],
+	"Dretch": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		}
+	],
+	"Glabrezu": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "2",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "2",
+			"name": "Glabrezu Claw"
+		},
+		{
+			"quantity": "1",
+			"name": "Glabrezu Carapace"
+		},
+		{
+			"quantity": "1",
+			"name": "Trophy of Temptation"
+		}
+	],
+	"Goristro": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "3",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "2",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "2",
+			"name": "Goristro Horn"
+		},
+		{
+			"quantity": "2d6",
+			"name": "Goristro Tooth"
+		},
+		{
+			"quantity": "1",
+			"name": "Goristro Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Goristro Skull"
+		},
+		{
+			"quantity": "2",
+			"name": "Gilded Bracer"
+		},
+		{
+			"quantity": "2",
+			"name": "Mote of Unholy Fire"
+		}
+	],
+	"Hezrou": [
+		{
+			"quantity": "2",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "2",
+			"name": "Hezrou Stench Gland"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Hezrou Spines"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Hezrou Claws"
+		}
+	],
+	"Manes": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		}
+	],
+	"Marilith": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "3",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "1d4+2",
+			"name": "Demonic Longsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Marilith Bodice Armor"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Snake Tail"
+		},
+		{
+			"quantity": "2",
+			"name": "Gilded Bracer"
+		},
+		{
+			"quantity": "2",
+			"name": "Mote of Unholy Fire"
+		}
+	],
+	"Nalfeshnee": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "2",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "2",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "2",
+			"name": "Nalfeshnee Tusk"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Nalfeshnee Claw"
+		},
+		{
+			"quantity": "1",
+			"name": "Nalfeshnee Hide"
+		},
+		{
+			"quantity": "2",
+			"name": "Gilded Bracer"
+		},
+		{
+			"quantity": "1",
+			"name": "Mote of Unholy Fire"
+		}
+	],
+	"Quasit": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		}
+	],
+	"Shadow Demon": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Shadow Claw"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Ectoplasm"
+		}
+	],
+	"Vrock": [
+		{
+			"quantity": "1",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Vrock Hide"
+		},
+		{
+			"quantity": "2",
+			"name": "Vial of Spores"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Vrock Eye"
+		}
+	],
+	"Yochlol": [
+		{
+			"quantity": "1",
+			"name": "Demonic Amulet"
+		},
+		{
+			"quantity": "2",
+			"name": "Vial of Foul Ichor"
+		},
+		{
+			"quantity": "1",
+			"name": "Cultist Sigil"
+		},
+		{
+			"quantity": "1",
+			"name": "Demon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Yochlol Eye"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Demon Spider Leg"
+		},
+		{
+			"quantity": "1",
+			"name": "Ball of Demonweb"
+		},
+		{
+			"quantity": "1",
+			"name": "Mote of Unholy Fire"
+		}
+	],
+	"Barbed Devil": [
+		{
+			"quantity": "2d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "1",
+			"name": "Barbed Devil Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Barbed Devil Tail"
+		}
+	],
+	"Bearded Devil": [
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Bearded Devil Tendril"
+		}
+	],
+	"Bone Devil": [
+		{
+			"quantity": "1",
+			"name": "Vial of Bone Devil Poison"
+		},
+		{
+			"quantity": "1",
+			"name": "Bone Devil Hide"
+		},
+		{
+			"quantity": "2",
+			"name": "Bone Devil Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Bone Devil Skull"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		}
+	],
+	"Chain Devil": [
+		{
+			"quantity": "3d4",
+			"name": "Chain Devil Chain"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Animate Hook"
+		},
+		{
+			"quantity": "1",
+			"name": "Chain Devil Mask"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		}
+	],
+	"Erinyes": [
+		{
+			"quantity": "1",
+			"name": "Hellspit Longsword"
+		},
+		{
+			"quantity": "1",
+			"name": "Hellspit Longbow"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Erinyes Feather"
+		},
+		{
+			"quantity": "1",
+			"name": "Erinyes Tongue"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Vial of Hellish Ichor"
+		}
+	],
+	"Horned Devil": [
+		{
+			"quantity": "2",
+			"name": "Horned Devil Horn"
+		},
+		{
+			"quantity": "2",
+			"name": "Horned Devil Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Horned Devil Tail"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Devil Tooth"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Vial of Hellish Ichor"
+		}
+	],
+	"Ice Devil": [
+		{
+			"quantity": "1",
+			"name": "Ice Devil Carapace"
+		},
+		{
+			"quantity": "2",
+			"name": "Ice Devil Mandible"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Ice Devil Antennae"
+		},
+		{
+			"quantity": "1",
+			"name": "Ice Devil Tail"
+		},
+		{
+			"quantity": "2",
+			"name": "Hellforged Bracers"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Vial of Hellish Ichor"
+		}
+	],
+	"Imp": [
+		{
+			"quantity": "1d2",
+			"name": "Imp Wing"
+		}
+	],
+	"Lemure": [
+		{
+			"quantity": "1",
+			"name": "Vial of Hellish Ichor"
+		}
+	],
+	"Pit Fiend": [
+		{
+			"quantity": "1",
+			"name": "Pit Fiend Hide"
+		},
+		{
+			"quantity": "2",
+			"name": "Pit Fiend Horn"
+		},
+		{
+			"quantity": "1",
+			"name": "Hellforged Mace"
+		},
+		{
+			"quantity": "2",
+			"name": "Hellforged Bracers"
+		},
+		{
+			"quantity": "2",
+			"name": "Pit Fiend Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Pit Fiend Tail"
+		},
+		{
+			"quantity": "1",
+			"name": "Pit Fiend Head"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Pit Fiend Tooth"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Devil Claw"
+		},
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "4d4",
+			"name": "Vial of Hellish Ichor"
+		}
+	],
+	"Spined Devil": [
+		{
+			"quantity": "1d2",
+			"name": "Devil Eye"
+		},
+		{
+			"quantity": "1d8",
+			"name": "Spined Devil Spine"
+		}
+	],
+	"Giant Poisonous Snake": [
+		{
+			"quantity": "1d6",
+			"name": "Poisonous Snake Skin"
+		},
+		{
+			"quantity": "1",
+			"name": "Vial of Serpent Venom"
+		}
+	]
+}
