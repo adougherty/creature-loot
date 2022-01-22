@@ -1185,6 +1185,340 @@
 			"name": "Spined Devil Spine"
 		}
 	],
+	"Allosaurus": [
+		{
+			"quantity": "1",
+			"name": "Dinosaur Hide"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Dinosaur Claw"
+		}
+	],
+	"Ankylosaurus": [
+		{
+			"quantity": "2",
+			"name": "Dinosaur Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Knobbed Tail"
+		}
+	],
+	"Plesiosaurus": [
+		{
+			"quantity": "1",
+			"name": "Dinosaur Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Plesiosaurus Bladder"
+		}
+	],
+	"Triceratops": [
+		{
+			"quantity": "2",
+			"name": "Dinosaur Hide"
+		},
+		{
+			"quantity": "3",
+			"name": "Triceratops Horn"
+		}
+	],
+	"Tyrannosaurus Rex": [
+		{
+			"quantity": "3",
+			"name": "Dinosaur Hide"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Dinosaur Claw"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Tyrannosaurus Tooth"
+		},
+		{
+			"quantity": "1",
+			"name": "Tyrannosaurus Skull"
+		}
+	],
+	"Displacer Beast": [
+		{
+			"quantity": "1d2",
+			"name": "Displacer Beast Tentacle"
+		},
+		{
+			"quantity": "1",
+			"name": "Displacer Beast Hide"
+		},
+		{
+			"quantity": "1d6",
+			"name": "Displacer Beast Paw"
+		},
+		{
+			"quantity": "1",
+			"name": "Tyrannosaurus Skull"
+		}
+	],
+	"Doppelganger": [
+		{
+			"quantity": "2",
+			"name": "Lump of Doppelganger Flesh"
+		},
+		{
+			"quantity": "1",
+			"name": "Doppelganger Brain"
+		}
+	],
+	"Ancient Black Dragon": [
+		{
+			"quantity": "1",
+			"name": "Ancient Black Dragon Skull"
+		},
+		{
+			"quantity": "2",
+			"name": "Black Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Black Dragon Tail"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Black Dragon Claw"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Black Dragon Fang"
+		},
+		{
+			"quantity": "5",
+			"name": "Strip of Black Dragon Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Ancient Black Dragon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Ancient Black Dragon Acid Pouch"
+		},
+		{
+			"quantity": "3d10",
+			"name": "Black Dragon Scale"
+		},
+		{
+			"quantity": "2",
+			"name": "Ancient Black Dragon Horn"
+		}
+	],
+	"Adult Black Dragon": [
+		{
+			"quantity": "1",
+			"name": "Adult Black Dragon Skull"
+		},
+		{
+			"quantity": "2",
+			"name": "Black Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Black Dragon Tail"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Black Dragon Claw"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Black Dragon Fang"
+		},
+		{
+			"quantity": "2",
+			"name": "Strip of Black Dragon Hide"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Black Dragon Scale"
+		},
+		{
+			"quantity": "2",
+			"name": "Adult Black Dragon Horn"
+		}
+	],
+	"Young Black Dragon": [
+		{
+			"quantity": "2",
+			"name": "Black Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Black Dragon Tail"
+		},
+		{
+			"quantity": "1d4",
+			"name": "Black Dragon Claw"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Black Dragon Fang"
+		},
+		{
+			"quantity": "1",
+			"name": "Strip of Black Dragon Hide"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Black Dragon Scale"
+		}
+	],
+	"Black Dragon Wyrmling": [
+		{
+			"quantity": "1d4",
+			"name": "Black Dragon Claw"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Black Dragon Scale"
+		}
+	],
+	"Ancient Blue Dragon": [
+		{
+			"quantity": "1",
+			"name": "Ancient Blue Dragon Skull"
+		},
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Blue Dragon Tail"
+		},
+		{
+			"quantity": "4d4",
+			"name": "Blue Dragon Claw"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Blue Dragon Fang"
+		},
+		{
+			"quantity": "5",
+			"name": "Strip of Blue Dragon Hide"
+		},
+		{
+			"quantity": "1",
+			"name": "Ancient Blue Dragon Heart"
+		},
+		{
+			"quantity": "1",
+			"name": "Ancient Blue Dragon Lightning Organ"
+		},
+		{
+			"quantity": "3d10",
+			"name": "Blue Dragon Scale"
+		},
+		{
+			"quantity": "1",
+			"name": "Ancient Blue Dragon Horn"
+		},
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Eye"
+		}
+	],
+	"Adult Blue Dragon": [
+		{
+			"quantity": "1",
+			"name": "Adult Blue Dragon Skull"
+		},
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Blue Dragon Tail"
+		},
+		{
+			"quantity": "3d4",
+			"name": "Blue Dragon Claw"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Blue Dragon Fang"
+		},
+		{
+			"quantity": "2",
+			"name": "Strip of Blue Dragon Hide"
+		},
+		{
+			"quantity": "2d10",
+			"name": "Blue Dragon Scale"
+		},
+		{
+			"quantity": "1",
+			"name": "Adult Blue Dragon Horn"
+		},
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Eye"
+		}
+	],
+	"Young Blue Dragon": [
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Wing"
+		},
+		{
+			"quantity": "1",
+			"name": "Blue Dragon Tail"
+		},
+		{
+			"quantity": "2d4",
+			"name": "Blue Dragon Claw"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Blue Dragon Fang"
+		},
+		{
+			"quantity": "1",
+			"name": "Strip of Blue Dragon Hide"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Blue Dragon Scale"
+		},
+		{
+			"quantity": "2",
+			"name": "Blue Dragon Eye"
+		}
+	],
+	"Blue Dragon Wyrmling": [
+		{
+			"quantity": "2d4",
+			"name": "Blue Dragon Claw"
+		},
+		{
+			"quantity": "1d10",
+			"name": "Blue Dragon Scale"
+		}
+	],
+	"Pteranodon": [
+		{
+			"quantity": "1d2",
+			"name": "Tattered Pteranodon Wing"
+		}
+	],
+	"Giant Boar": [
+		{
+			"quantity": "1",
+			"name": "Giant Boar Hide"
+		}
+	],
 	"Giant Poisonous Snake": [
 		{
 			"quantity": "1d6",
